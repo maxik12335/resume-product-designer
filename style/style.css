@@ -19,6 +19,7 @@
 body {
     font-family: 'Arial';
     transform: scale(2) translateY(25%);
+    overflow-x: hidden;
 }
 
 /* header */
